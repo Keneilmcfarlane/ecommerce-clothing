@@ -75,7 +75,7 @@ I also learned how to connect stripe as payment gate for e-commerce. Full code f
 ![payment with stripe](./src/assets/payment.png)
 
 The confetti effect is implemented on the payment success page after the user successfully checkouts their cart
-![payment success](./src/assets/success-pay.png)
+
 
 ### Continued development
 The development of this project can be continued by adding a search filter functionality, an e-commerce newsletter, activate the slider function for product section in homepage. In the near future, I'm going to explore react js search filters and maybe add that functionality myself.
